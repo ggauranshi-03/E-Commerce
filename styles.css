@@ -13,13 +13,7 @@ h1 {
 .container-fluid {
   padding: 0;
 }
-/* .phone-image {
-    height: 500px;
-    width: 60%;
-    transform: rotate(25deg);
-    margin-top: 30px;
-    position: absolute;
-  } */
+
 .navbar-brand {
   font-size: 25px;
   font-weight: bold;
@@ -71,21 +65,13 @@ h1 {
   text-align: left;
   padding-top: 0;
 }
-.phone-image {
-  height: 500px;
-  width: 20%;
-  transform: rotate(25deg);
-  margin-top: 30px;
-  position: absolute;
-  right: 25%;
-}
+
 #features {
   padding: 7% 15%;
   font-weight: bolder;
   font-family: "Ubuntu";
   background-color: white;
   position: relative;
-  /* z-index: 1; */
 }
 #testimonials {
   text-align: center;
@@ -121,20 +107,20 @@ h1 {
   position: relative;
   right: 243px;
 }
-/* .nav-icon {
-  position: relative;
-  right: 210px;
-  padding-right: 2%;
-} */
+
 .nav-icon {
   position: relative;
   right: 200px;
   margin: 0 6px 0 6px;
 }
-@media (max-width: 900px) {
+.home-Image {
+  height: 520px;
+  width: 100%;
+}
+/* @media (max-width: 900px) {
   .phone-image {
     position: static;
     transform: rotate(0deg);
     width: 60%;
   }
-}
+} */
