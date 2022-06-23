@@ -1,126 +1,130 @@
 body {
-  font-family: "Ubuntu";
-  text-align: center;
-}
-h1 {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  size: 5rem;
-  line-height: 1.5;
-  color: white;
-  font-weight: bolder;
-  padding-top: 26px;
-}
-.container-fluid {
-  padding: 0;
-}
-
-.navbar-brand {
-  font-size: 25px;
-  font-weight: bold;
-  padding-left: 5px;
-}
-.navbar {
-  padding: 0;
-  width: 1300px;
-}
-.nav-item {
-  padding: 0 18px;
-}
-.nav-link {
-  font-family: "Montserrat-light";
-  font-size: 1.2rem;
-}
-.d-button {
-  margin: 20px 4px 20px 4px;
-}
-.feature-description {
-  font-weight: lighter;
-  color: grey;
-}
-.feature-box {
-  padding-right: 5%;
-}
-.icon {
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
-.icon:hover {
-  color: #ff4c68;
-}
-.testimonial-image {
-  width: 120px;
-  border-radius: 60px;
-  padding: 15px;
-}
-.press-logo {
-  width: 15%;
-  padding: 15px;
-}
-.carousel-item {
-  padding: 7% 15%;
-}
-
-#title {
-  background-color: #ff4c68;
-  text-align: left;
-  padding-top: 0;
-}
-
-#features {
-  padding: 7% 15%;
-  font-weight: bolder;
-  font-family: "Ubuntu";
-  background-color: white;
-  position: relative;
-}
-#testimonials {
-  text-align: center;
-  font-weight: bolder;
-  background-color: #ef8172;
-  color: white;
-}
-#press {
-  background-color: #ef8172;
-  padding-bottom: 3%;
-  padding-top: 3%;
-}
-#pricing {
-  padding: 100px;
-}
-#cta {
-  background-color: #ff4c68;
-  color: white;
-  height: 290px;
-  padding: 7%;
-  font-weight: bolder;
-}
-#footer {
-  padding-top: 20px;
-}
-.form-control {
-  width: 250px;
-  position: relative;
-  right: 250px;
-  /* left: 5px; */
-}
-.btn {
-  position: relative;
-  right: 243px;
-}
-
-.nav-icon {
-  position: relative;
-  right: 200px;
-  margin: 0 6px 0 6px;
-}
-.home-Image {
-  height: 520px;
-  width: 100%;
-}
-/* @media (max-width: 900px) {
-  .phone-image {
-    position: static;
-    transform: rotate(0deg);
-    width: 60%;
+    font-family: "Ubuntu";
+    text-align: center;
   }
-} */
+  h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    size: 5rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: bolder;
+    padding-top: 26px;
+  }
+  .container-fluid {
+    padding: 0;
+  }
+  
+  .navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 5px;
+  }
+  .navbar {
+    padding: 0;
+    width: 1300px;
+  }
+  .nav-item {
+    padding: 0 18px;
+  }
+  .nav-link {
+    font-family: "Montserrat-light";
+    font-size: 1.2rem;
+  }
+  .d-button {
+    margin: 20px 4px 20px 4px;
+  }
+  .feature-description {
+    font-weight: lighter;
+    color: grey;
+  }
+  .feature-box {
+    padding-right: 5%;
+  }
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+  .icon:hover {
+    color: #ff4c68;
+  }
+  .testimonial-image {
+    width: 120px;
+    border-radius: 60px;
+    padding: 15px;
+  }
+  .press-logo {
+    width: 15%;
+    padding: 15px;
+  }
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  
+  #title {
+    background-color: #ff4c68;
+    text-align: left;
+    padding-top: 0;
+  }
+  
+  #features {
+    padding: 7% 15%;
+    font-weight: bolder;
+    font-family: "Ubuntu";
+    background-color: white;
+    position: relative;
+  }
+  #testimonials {
+    text-align: center;
+    font-weight: bolder;
+    background-color: #ef8172;
+    color: white;
+  }
+  #press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    padding-top: 3%;
+  }
+  #pricing {
+    padding: 100px;
+  }
+  #cta {
+    background-color: #ff4c68;
+    color: white;
+    height: 290px;
+    padding: 7%;
+    font-weight: bolder;
+  }
+  #footer {
+    padding-top: 20px;
+  }
+  .form-control {
+    width: 250px;
+    position: relative;
+    right: 250px;
+    /* left: 5px; */
+  }
+  .btn {
+    position: relative;
+    right: 243px;
+  }
+  
+  .nav-icon {
+    position: relative;
+    right: 200px;
+    margin: 0 6px 0 6px;
+  }
+  .home-Image {
+    height: 520px;
+    width: 100%;
+  }
+  .size {
+    font-size: 30px;
+    color: black;
+  }
+  /* @media (max-width: 900px) {
+    .phone-image {
+      position: static;
+      transform: rotate(0deg);
+      width: 60%;
+    }
+  } */
