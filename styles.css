@@ -128,3 +128,21 @@ body {
       width: 60%;
     }
   } */
+  #testimonials {
+    text-align: center;
+    font-weight: bolder;
+    /* background-image: url("home page image.jpg"); */
+    color: white;
+    background-color: white;
+  }
+  /* .testimonial-image{
+    background-image: url("home page image.jpg");
+  } */
+  /* .photu {
+    size: 5rem;
+  } */
+  .photu{
+    align-items: center;
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
